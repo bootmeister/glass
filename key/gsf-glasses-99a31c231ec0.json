@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gsf-glasses",
+  "private_key_id": "99a31c231ec096e03a38bc57a8f16792cda4a35e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBv6DCJ+0LzNTG\nY+hDnPdAbtFr5aM1jAviHz2KP+krPw8fdtRfaWf65jhVhwg/AnMnHWkxsukLZMJt\ntzNcxFVMho6SLiUi1k1+6kKDiaWT/LzmU9JL/DFXLtV8oaYL+vpX0pEU5Kowvu8W\nchsP17YS1at2Bot41ntENJKc3smOfmFRAOR203oPAkbu8tJtP21GtzD94/97B6t9\nhotSdkTlhUejkx70mx6Yy7HbEw4CHZ7ASKML0SArVvp5PvgYqeALUPWi1pJ9UROJ\nRPw1uib2PA29oyZ88A2tqq5VrRv4W+U5GBGm/O0yQ17C9nM97FFdolxjLMenY4JK\nOwSt5lRRAgMBAAECgf90QXm0zeru/weRH9OFoioPxqf/QNnYjrAg8IF8uk52JKeK\n1iZDUu4DV8uuorteMAvos67rTgvBEYoKoNTNcawu9+PNfcZ1aAVthbGcdO1ltGxP\nVsOufyUcHO/gkckfEd168Xrjx24e0cgWhSh+9Y0gTk6iPEse01sHSvY8nI5xODx0\nNQjqm6Hm2hnjWyMkTjz4dulG0ou9vvx08Ufw0K63LR33wylY4/QRpnjFgmNv+Un5\nh9xF+lcob1ugFuIaeJbDOXhxO2y9sNwbJ937xB0cZLUG6xFJbxSGKFMxsRmLDd4x\nxmQe2+amZs3e4wuUKer5u62xsZmeTnJaDvD1yDsCgYEA4BOtwiavuu/2Oof2ibn/\nnh1vPHmbT3++tXEU8UPlMUYgS6OfjbIvt0Ksr6U7c2KcxQBWAcO/+UdPoqbEUPnw\nali8gRQYC8OqYrMiKeRKXrO6UMQY6Rr6Dpg9lQjHg88sMjm4iy6ioNe4UcnxvJHW\nvP+XSd9GlFwMYg5iBdWKM1cCgYEA3VnX1A6g7xCJf10+KbAC5w0TMWgeZMnSEoE4\nivmTF+xKgYvdUQHkpzIeG4YlS3VUH+xRtnCcfTtvA0iFeJkuQqno99ga3ulq/Xc1\nqUF5np2xKuoN7K0jZmMUd8zSlmFoO2zZaTOzPMjFjHkGJmNVeCyg5bt6fuE1IYtH\nJbNS1JcCgYEAzcVkgHF0WO+5pyBqZym2MmYHW3q1BDlkUUzKFZDq7OfgCnX0tHOY\nW+tPl3Dd+mTpYAOh97biGTHCULRifZY4kABzAvoH5u3FDyQ/UEcDgJn9k+OwmIgc\nb8CgdLb+OO3MQUc+UBoAYEIZUopngmpOz3rLXJw8PUuWV4mrvH3PjrsCgYEAirCr\nWbQcxA3BiSr8MxSUjP6VQwSw3ofR90Q+EF3V+0xTVp4y+nnMMbJmSOqhXYlTP3lL\nrZsbgiAGK7F555la8ewSC5C9LWRlZBEYb0eWE3tMsc3bEateHd4Ayhts60p3C5zl\nEFSTfodxt9VwtAbTW6vi2G7CjtM+/hiNaKLWSFsCgYA9gVfoewZXMkGvOpv/69gF\nDO+K/zvjpX4xheBsoHfot2hjSi+k7Y2FaXu8REr9jyQkUL3883cX4moIg7I9YMFM\nRCfFU5IA7QwDHP/neqRXSyB0To8tu8fYErYcO7JpZ754s/6inVRdwMkBp9hm/6Ia\n+CTn8yiqxT4CAOOpxNkzhw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-985@gsf-glasses.iam.gserviceaccount.com",
+  "client_id": "101010206486469358273",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-985%40gsf-glasses.iam.gserviceaccount.com"
+}

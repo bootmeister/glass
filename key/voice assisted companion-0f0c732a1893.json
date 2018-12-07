@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voice-assisted-companion",
+  "private_key_id": "0f0c732a18938010b8bb4bc0a40caa5c0e66710d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9F/RDt/tWMTil\nR6a0PleOFwcsNPm8RwgeNPQKv4GDouvz+Lo2rDB+XRnlJwC25J7RCOVmOznXgjOl\nTzb/trbuQZIMnnSf4jgx77qJf7tRjBs0NHZ586kw18wXfDqnS90C365Bo8QZzQ7T\nELHcx8lorWHNThNO6qxzzI0xqaLuPDDwR9cgVfCyK4SNOhBBfz8etbiNPOzM26Ls\nqCuWWs0jmBF1qxB7PGtHbUQyNrc08+KDszHXrNC+NhrfmPBwyJWcmvVm8vWEZYdh\nRD23q22g18U37xXA/uOfd5KZbxvLFJ/9QFEXTx7DJJhbH/dNaIDMYpn4aRnBW1eh\n2JLQ+sa1AgMBAAECggEAWApaotr7DS7+qkmZjutF1bTYFJeXvTcvSu0pwQVYNmN5\nS47/mGwEahlL8Lr/pKf+X+It+LLTpAkNpcajm1zFgFoMN47hSv3HX0y4Q8Oyge3j\nTqOsk+xEVqbq8fZX0sPKI8fkeNBYghDM+a2YumxU1MWBN1dGOySdZY8UIE7UuumD\nj6DGaeBTx3Y/WDN1sF0smNz/9lIPPD/7Xen4E/o3RIONGMqXQkvPJzXTWv4Ok5iF\ny9Rm5G2bzXbI/MXJMCwW3bghJNii8CB7MTeYARBr3bRAkwyl5X9Cjl2J5nCxq9ft\nrgLfKUngW2+87Qhpx9pVtXX8nKKA/lSCsAdFTQRkMwKBgQDgC3moLyWijS/ygvKi\nPEdymv7LB2cu9mRMuC8iig7FPrCY5CgWXTolaHDa0CMfbu0Q7c74MvSh4cmXFSlJ\nkyXxdiLO+w54xCQV6v2YVUenFICKgREGRIy6tKap8ii1I6jFeJ04M/eCgO8JE9+k\nAwC0KmhdivCgP+IsalfvEEkPowKBgQDYEE6568IuLEgS5xK7CQ6yq20xJC2k/BrX\n20U3XBskTujxQ620muXXL2fps4u1QgngrgxOJBaPtiHmsmFoCRIgt+fDlQ7+5Pt7\nl0hvdUEyqVFgC8yJ+7vM3CIbSAranMC/wnPCy6Y5oWtUotOWb4Q2/9pLtV+xyiY5\nPn3Sd+/VxwKBgHIBxN1taGRIHh70vY0KyXyrHH6p/LqsDKvxiaK0yAFc/jY+25tN\nw1nnxI3EHitPofjcWlZ4b320zIVB8mmLJGKzr9DNdjbD8Gzq0DLlKnn9988DEGu1\nFDup06llHYvXYnlh//bqksdo3roqz8HA+Wm0rrjzC7Ev8OKTFr4C9nqrAoGASDhb\nOEYXp/thNABNAHuskAhA/VYMc8NY7aH7Zt/Aqsg9kLeAjofgH6dW4oUDQ9kJGDLV\nJiFl8S998XDaoj21833FWFiwpH7BmLQeoDLfUiHKc4I+Ijkksvs540iXaC9RNke3\nDfuoWkccazPp6bToysGGpBvCGtlpIWVEBV/VqO0CgYBD7N3I1tIYBqSUG8IHlZAp\nDQBkXddgQaaAuINttHykVckgDPlGlDBgLVLswKKvCfRG0nmTH4dPSgxmw66eL+tg\n4cC2wKrH7JDoO0zXuIkdbgVIppPWvP9BHysNlrUMoSUTPWG7/2RPzyHM8VDp7Wh7\nKhM1wOSiLSh6HSiYipUCow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision@voice-assisted-companion.iam.gserviceaccount.com",
+  "client_id": "104704960126883049917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision%40voice-assisted-companion.iam.gserviceaccount.com"
+}
